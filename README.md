@@ -1,4 +1,4 @@
-# RandDog
+# Dogs
 A random dogs pictures app which you can perview all the dogs breeds
 
 ## what is the app
