@@ -6,4 +6,4 @@ pickerView contains names of almost all the dogs breeds, scroll to pick your fav
 random pic will appear in the imageView , using APIs from https://dog.ceo/dog-api/
 
 
-<img src= "images/Start.png" width="170" >
+<img src= "images/Start.png" width="200" >
